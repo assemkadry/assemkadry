@@ -1,7 +1,3 @@
-<!-- =======================HEADER======================= -->
-
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
-
 <!-- =======================INTRODUCTION======================= -->
 
 <p align="center">
