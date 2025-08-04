@@ -13,7 +13,7 @@
     Computational and Molecular Biologist | Instructor at Nile University
 </h3>
 
-<p align="center" style="font-size:20px; font-weight:normal;">
+<p align="center" style="font-size:40px; font-weight:normal;">
     Exploring the molecular basis of diseases to advance translational medicine, 
     integrating wet-lab research with computational analysis.
 </p>
