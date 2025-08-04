@@ -1,3 +1,10 @@
+<!--
+=======================HEADER=======================
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+
+<!--
 <!-- =======================INTRODUCTION======================= -->
 
 <p align="center">
@@ -68,3 +75,9 @@
     <img src="https://komarev.com/ghpvc/?username=assemkadry&label=Profile%20Views&color=0e75b6&style=flat&labelColor=000000&logo=eye&logoColor=white" alt="Profile Views"/>
   </a>
 </p>
+
+<!--
+=======================FOOTER=======================
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
