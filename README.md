@@ -67,6 +67,21 @@
   </a>
 </p>
 
+
+### <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="github stats" width="30" height="30" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assemkadry&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff7f50&icon_color=1e90ff&text_color=333333" alt="Assem's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assemkadry&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff7f50&text_color=333333" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/assemkadry">
+    <img src="https://komarev.com/ghpvc/?username=assemkadry&label=Profile%20Views&color=0e75b6&style=flat&labelColor=ffffff&logo=eye&logoColor=0e75b6" alt="Profile Views"/>
+  </a>
+</p>
+
+
 <!--=======FOOTER======================= -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
