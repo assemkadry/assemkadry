@@ -13,10 +13,10 @@
     Computational and Molecular Biologist | Instructor at Nile University
 </h3>
 
-<p align="center" style="font-size:40px; font-weight:normal;">
+<h4 align="center" style="font-weight:normal;">
     Exploring the molecular basis of diseases to advance translational medicine, 
     integrating wet-lab research with computational analysis.
-</p>
+</h4>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/assem-kadry-elsherif-ab401213a/">
