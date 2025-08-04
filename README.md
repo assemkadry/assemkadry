@@ -69,10 +69,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assemkadry&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="160"/>
-</p>
 
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=assemkadry&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <!-- =======================FOOTER======================= -->
 
