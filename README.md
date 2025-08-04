@@ -1,10 +1,5 @@
 <!-- =======================HEADER======================= -->
 
-<p align="center">
-  <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" 
-       width="50px" 
-       style="transform: scaleX(-1);"/>
-</p>
 <!-- =======================INTRODUCTION======================= -->
 
 <p align="center">
