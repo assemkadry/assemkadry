@@ -20,12 +20,16 @@
         Currently, I am exploring opportunities for PhD research in computational cancer biology and precision medicine.<br>
     </i><br>
  </p>
- <p align="center">
-    <a href="https://www.linkedin.com/in/assem-kadry">
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/assem-kadry-elsherif-ab401213a/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:assem.bioinfo@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    <a href="mailto:assemkadry@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="mailto:akadry@nu.edu.eg">
+        <img src="https://img.shields.io/badge/Academic%20Email-blue?style=flat-square&logo=minutemailer&logoColor=white" alt="Academic Email">
     </a>
 </p>
 
