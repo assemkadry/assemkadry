@@ -45,35 +45,7 @@
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/128/2721/2721292.png" alt="bioinformatics" width="30" height="30" /> Bioinformatics & Data Analysis
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Genomics-8A2BE2?style=for-the-badge&logo=dna&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transcriptomics-FF4500?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metagenomics-20B2AA?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Epigenomics-FF69B4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Omics-1E90FF?style=for-the-badge&logoColor=white"/>
-</p>
-
-#### 🧬 Genomics
-- Variant Calling  
-- GWAS  
-- Population Genetics  
-
-#### 🧬 Transcriptomics
-- Bulk RNA-seq  
-- Single-cell RNA-seq (scRNA-seq)  
-- Microarray  
-- miRNA Analysis  
-
-#### 🧬 Metagenomics
-- Shotgun Sequencing  
-- 16S rRNA  
-- Functional & Taxonomic Profiling  
-
-#### 🧬 Epigenomics
-- ChIP-seq  
-- ATAC-seq  
-
-#### 🧬 Others
-- Multi-Omics Integration  
-- Machine Learning for Biomarker Discovery
+| <img src="https://img.shields.io/badge/Genomics-8A2BE2?style=for-the-badge&logo=dna&logoColor=white"/> | <img src="https://img.shields.io/badge/Transcriptomics-FF4500?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/Metagenomics-20B2AA?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/Epigenomics-FF69B4?style=for-the-badge&logoColor=white"/> | <img src="https://img.shields.io/badge/Multi--Omics-1E90FF?style=for-the-badge&logoColor=white"/> |
+|:------------------------------------:|:----------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-----------------------------------------:|
+| Variant Calling <br> GWAS <br> Population Genetics | Bulk RNA-seq <br> scRNA-seq <br> Microarray <br> miRNA Analysis | Shotgun Sequencing <br> 16S rRNA <br> Functional & Taxonomic Profiling | ChIP-seq <br> ATAC-seq | Multi-Omics Integration <br> Machine Learning for Biomarker Discovery |
 
