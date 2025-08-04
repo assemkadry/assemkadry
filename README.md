@@ -51,9 +51,6 @@
 
 <!-- =======================GITHUB STATS======================= -->
 
----
-### <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="github stats" width="30" height="30" /> GitHub Stats
-
 ### <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="github stats" width="30" height="30" /> GitHub Stats
 
 <p align="center">
