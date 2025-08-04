@@ -14,11 +14,8 @@
        <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
     </i><br>
     <i>
-        Computational Biologist and Assistant Lecturer at the School of Biotechnology, Nile University, Egypt. 
-        I hold an MSc in Informatics, where my research focused on bulk and single-cell transcriptomics in cancer.
-        My expertise includes multi-omics integration, cancer bioinformatics, and machine learning for biomarker discovery. 
-        I enjoy bridging wet-lab experiments with computational analysis to extract meaningful biological insights. 
-        <br>
+        Computational and Molecular Biologist, Instructor at Nile University.  
+        I study the molecular dynamics of disease to bridge basic research with translational medicine, integrating experimental and       computational approaches.        <br>
     </i><br>
 </p>
 
