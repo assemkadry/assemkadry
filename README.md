@@ -14,10 +14,8 @@
 </h3>
 
 <p align="center">
-    <span style="font-size:18px;">
-        Exploring the molecular basis of diseases to advance translational medicine, 
-        integrating wet-lab research with computational analysis.
-    </span>
+    Exploring the molecular basis of diseases to advance translational medicine, 
+    integrating wet-lab research with computational analysis.
 </p>
 
 <p align="center">
