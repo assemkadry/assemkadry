@@ -1,7 +1,10 @@
 <!-- =======================HEADER======================= -->
 
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
-
+<p align="center">
+  <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" 
+       width="50px" 
+       style="transform: scaleX(-1);"/>
+</p>
 <!-- =======================INTRODUCTION======================= -->
 
 <p align="center">
