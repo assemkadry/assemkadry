@@ -67,6 +67,13 @@
   </a>
 </p>
 
+
+### <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="github stats" width="30" height="30" /> GitHub Stats
+
+| <a href="https://github.com/assemkadry"><img align="center" src="https://github-readme-stats.vercel.app/api?username=assemkadry&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=ff7f50&icon_color=1e90ff&text_color=333333" alt="Assem's github stats" /></a> | <a href="https://github.com/assemkadry"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assemkadry&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff7f50&text_color=333333" /></a> |
+| ------------- | ------------- |
+
+
 <!--=======FOOTER======================= -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
