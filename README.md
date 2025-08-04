@@ -55,12 +55,12 @@
 ### <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="github stats" width="30" height="30" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssemKadry&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff7f50&icon_color=1e90ff&text_color=333333" alt="Assem's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssemKadry&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff7f50&text_color=333333" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=assemkadry&show_icons=true&hide_border=true&bg_color=ffffff&title_color=ff7f50&icon_color=1e90ff&text_color=333333" alt="Assem's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assemkadry&layout=compact&hide_border=true&bg_color=ffffff&title_color=ff7f50&text_color=333333" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AssemKadry&hide_border=true&background=ffffff&stroke=1e90ff&ring=ff7f50&fire=ff7f50&currStreakLabel=1e90ff&sideNums=333333&sideLabels=333333" alt="GitHub Streak Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assemkadry&hide_border=true&background=ffffff&stroke=1e90ff&ring=ff7f50&fire=ff7f50&currStreakLabel=1e90ff&sideNums=333333&sideLabels=333333" alt="GitHub Streak Stats" height="165"/>
 </p>
 
 <p align="center">
