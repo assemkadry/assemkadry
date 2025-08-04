@@ -4,16 +4,18 @@
 
 <!-- =======================INTRODUCTION======================= -->
 
+<h1 align="center">
+    Welcome to my GitHub profile, I'm Assem K. Elsherif!
+    <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">
+</h1>
+
+<h3 align="center">
+    Computational and Molecular Biologist | Instructor at Nile University
+</h3>
+
 <p align="center">
-    <br>
-    <i>
-       Welcome to my GitHub profile, I'm Assem K. Elsherif!
-       <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
-    </i><br>
-    <i>
-        Computational and Molecular Biologist | Instructor at Nile University.  
-        Exploring the molecular basis of diseases to advance translational medicine, integrating wet-lab research with computational analysis.
-    </i><br>
+    Exploring the molecular basis of diseases to advance translational medicine, 
+    integrating wet-lab research with computational analysis.
 </p>
 
 <p align="center">
