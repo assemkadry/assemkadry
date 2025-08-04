@@ -50,20 +50,15 @@
 =======================BIOINFORMATICS=======================
 -->
 
-### <img src="https://cdn-icons-png.flaticon.com/128/3829/3829976.png" alt="bio logo" width="30" height="30" />  Bioinformatics & NGS Tools  
-[![samtools](https://img.shields.io/badge/samtools-black?style=flat&logoColor=black)]() 
+### <img src="https://cdn-icons-png.flaticon.com/128/3829/3829976.png" alt="bio logo" width="30" height="30" />  Techniques  
+[![Genomics: Variant Calling · GWAS · Population Genetics · Variant Annotation (VEP)](https://img.shields.io/badge/samtools-black?style=flat&logoColor=black)]() 
 [![FastQC](https://img.shields.io/badge/FastQC-black?style=flat&logoColor=black)]()
-[![MultiQC](https://img.shields.io/badge/MultiQC-black?style=flat&logoColor=black)]()
+[![Transcriptomics: Bulk RNA-seq · scRNA-seq · Microarray · miRNA Analysis](https://img.shields.io/badge/MultiQC-black?style=flat&logoColor=black)]()
 [![Trimmomatic](https://img.shields.io/badge/Trimmomatic-black?style=flat&logoColor=black)]()
-[![Cutadapt](https://img.shields.io/badge/Cutadapt-black?style=flat&logoColor=black)]()
-[![HISAT2](https://img.shields.io/badge/HISAT2-black?style=flat&logoColor=black)]()
-[![BWA](https://img.shields.io/badge/BWA-black?style=flat&logoColor=black)]()
-[![VCFtools](https://img.shields.io/badge/VCFtools-black?style=flat&logoColor=black)]()
-[![GATK](https://img.shields.io/badge/GATK-black?style=flat&logoColor=black)]()
-[![Snakemake](https://img.shields.io/badge/Snakemake-black?style=flat&logoColor=black)]()
-[![Bioconductor](https://img.shields.io/badge/Bioconductor-black?style=flat&logoColor=black)]()
-[![Biopython](https://img.shields.io/badge/Biopython-black?style=flat&logoColor=black)]()
-[![IGV](https://img.shields.io/badge/IGV-black?style=flat&logoColor=black)]()
+[![Metagenomics: Shotgun Sequencing · 16S rRNA · Functional & Taxonomic Profiling](https://img.shields.io/badge/Cutadapt-black?style=flat&logoColor=black)]()
+[![Epigenomics: ChIP-seq · ATAC-seq](https://img.shields.io/badge/HISAT2-black?style=flat&logoColor=black)]()
+[![Others: Multi-Omics Integration · Machine Learning](https://img.shields.io/badge/BWA-black?style=flat&logoColor=black)]()
+
 
 ---
 
