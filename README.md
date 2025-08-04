@@ -49,3 +49,16 @@
 |:------------------------------------:|:----------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-----------------------------------------:|
 | • Variant Calling <br> • GWAS <br> • Population Genetics | • Bulk RNA-seq <br> • scRNA-seq <br> • Microarray <br> • miRNA Analysis | • Shotgun Sequencing <br> • 16S rRNA <br> • Functional & Taxonomic Profiling | • ChIP-seq <br> • ATAC-seq | • Multi-Omics Integration <br> • Machine Learning |
 
+<!-- =======================GITHUB STATS======================= -->
+
+---
+### <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="github stats" width="30" height="30" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AssemKadry&show_icons=true&theme=tokyonight&hide_border=true" alt="Assem's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssemKadry&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AssemKadry&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165"/>
+</p>
