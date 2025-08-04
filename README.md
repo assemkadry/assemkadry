@@ -66,13 +66,6 @@
 <p align="center">
   <a href="https://github.com/assemkadry">
     <img src="https://komarev.com/ghpvc/?username=assemkadry&label=Profile%20Views&color=0e75b6&style=flat&labelColor=ffffff&logo=eye&logoColor=0e75b6" alt="Profile Views"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=assemkadry&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- =======================FOOTER======================= -->
