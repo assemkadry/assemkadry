@@ -69,6 +69,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assemkadry&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="160"/>
+</p>
+
+
 <!-- =======================FOOTER======================= -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
