@@ -25,9 +25,6 @@
     <a href="mailto:assemkadry@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="mailto:akadry@nu.edu.eg">
-        <img src="https://img.shields.io/badge/Academic%20Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Academic Email">
-    </a>
     <a href="https://orcid.org/0009-0007-5993-5758">
         <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
     </a>
