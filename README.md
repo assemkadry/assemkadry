@@ -14,7 +14,7 @@
        Welcome to my GitHub profile, I'm Assem Kadry Elsherif! <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
     </i><br>
     <i>
-        I am an Assistant Lecturer in Biotechnology and a Computational Biology researcher passionate about cancer genomics and multi-omics data integration. 
+        I am an Instructor in Biotechnology and a Computational Biology researcher passionate about cancer genomics and multi-omics data integration. 
         I specialize in single-cell and bulk RNA-seq, machine learning for biomarker discovery, and multi-omics integration using R, Python, and Bash. 
         My research bridges wet-lab molecular biology with advanced bioinformatics to uncover molecular mechanisms and translational insights in cancer. 
         Currently, I am exploring opportunities for PhD research in computational cancer biology and precision medicine.<br>
